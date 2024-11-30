@@ -14,6 +14,7 @@ TagManager:
   - prize2
   - Exhibits
   - Video
+  - Multi-commodity
   layers:
   - Default
   - TransparentFX
